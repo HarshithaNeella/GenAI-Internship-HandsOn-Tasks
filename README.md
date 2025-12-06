@@ -1,10 +1,10 @@
-Internship Tasks – Data Science with Advanced Gen AI
+# Internship Tasks – Data Science with Advanced Gen AI
 
 This repository contains my first ever tasks from the Data Science with Advanced Gen AI Internship. These tasks mark the beginning of my journey into Python programming, problem solving, and writing clean, readable code.
 
 The work is implemented in Jupyter Notebooks and focuses on building a strong foundation with simple but important coding challenges.
 
-🧩 Task 1 – Python Basics & Control Flow 
+**🧩 Task 1 – Python Basics & Control Flow**
 
 This notebook covers core Python concepts and syntax through small hands-on exercises:
 
@@ -33,7 +33,7 @@ Implementing an is_leap(year) function to check leap years
 These problems helped me practice input handling, conditions, loops, and function definitions in Python.
 
 
-🔢 Task 2 – Intro to Data Structures & Problem Solving 
+**🔢 Task 2 – Intro to Data Structures & Problem Solving** 
 
 
 This notebook focuses on list manipulation and basic algorithmic thinking using array-based problems:
@@ -52,7 +52,7 @@ Checking, for each kid, if giving them all extra candies makes them have the gre
 
 These problems build intuition for loops, list operations, and writing reusable methods inside a Solution class.
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 Language: Python 3
 
@@ -70,7 +70,7 @@ Functions
 
 Basic list/array manipulation
 
-📚 What I Learned
+**📚 What I Learned**
 
 Writing clean and simple Python code.
 
@@ -84,7 +84,7 @@ Solving beginner-friendly algorithm problems using arrays and loops.
 
 Structuring solutions in a class with methods (similar to platforms like LeetCode).
 
-🌱 Next Steps
+**🌱 Next Steps**
 
 These are my starting tasks, and I plan to grow this repository with:
 
